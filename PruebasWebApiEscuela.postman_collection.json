@@ -1,0 +1,327 @@
+{
+	"info": {
+		"_postman_id": "1129adfb-cc5e-4225-81d2-50954b3a6378",
+		"name": "PruebasWebApiEscuela",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Alumnos",
+			"item": [
+				{
+					"name": "GetAlumnos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Alumnos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Alumnos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAlumnosById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Alumnos/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Alumnos",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostAlumno",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"nombre\": \"Laura\",\r\n        \"apellido\": \"Perez\",\r\n        \"matricula\": 32562,\r\n        \"ciudad\": \"carlos paz\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:57453/api/Alumnos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Alumnos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutAlumno",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"id\": 1,\r\n        \"nombre\": \"Matias\",\r\n        \"apellido\": \"Bianconi\",\r\n        \"matricula\": 363521,\r\n        \"ciudad\": \"icho cruz\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:57453/api/Alumnos/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Alumnos",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteAlumno",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Alumnos/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Alumnos",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAlumnoByEnrolment",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Alumnos/GetByEnrolment/32562",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Alumnos",
+								"GetByEnrolment",
+								"32562"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetAlumnoByCity",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Alumnos/GetByCity/icho cruz",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Alumnos",
+								"GetByCity",
+								"icho cruz"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Profesor",
+			"item": [
+				{
+					"name": "GetProfesores",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Profesor",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Profesor"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetProfesoresById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Profesor/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Profesor",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostProfesor",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"Maria\",\r\n    \"apellido\": \"Quirinali\",\r\n    \"titulo\": \"Biologia\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:57453/api/Profesor",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Profesor"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutProfesor",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"id\": 3,\r\n        \"nombre\": \"dario\",\r\n        \"apellido\": \"Ricardo\",\r\n        \"titulo\": \"Lengua\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:57453/api/Profesor/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Profesor",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteProfesor",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Profesor/3",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Profesor",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetProfesorByTitle",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:57453/api/Profesor/GetByTitle/historia",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "57453",
+							"path": [
+								"api",
+								"Profesor",
+								"GetByTitle",
+								"historia"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

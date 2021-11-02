@@ -1,0 +1,164 @@
+{
+	"info": {
+		"_postman_id": "f613a9c0-4a73-48e7-a1e0-fa7a3567acf7",
+		"name": "PruebasSWMedico",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetMedicos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9187/api/Medico",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9187",
+					"path": [
+						"api",
+						"Medico"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetMedicoID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9187/api/Medico/2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9187",
+					"path": [
+						"api",
+						"Medico",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PostMedico",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"nombre\": \"Laura\",\r\n        \"apellido\": \"Martinez\",\r\n        \"especialidad\": \"Pediatria\",\r\n        \"nroMatricula\": 12375,\r\n        \"fechaNacimiento\": \"1992-11-30T00:00:00\",\r\n        \"ciudad\": \"cordoba\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:9187/api/Medico",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9187",
+					"path": [
+						"api",
+						"Medico"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PutMedico",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"id\": 4,\r\n        \"nombre\": \"Laura\",\r\n        \"apellido\": \"Perez\",\r\n        \"especialidad\": \"Pediatria\",\r\n        \"nroMatricula\": 12375,\r\n        \"fechaNacimiento\": \"1992-11-30T00:00:00\",\r\n        \"ciudad\": \"cordoba\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:9187/api/Medico/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9187",
+					"path": [
+						"api",
+						"Medico",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteMedico",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9187/api/Medico/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9187",
+					"path": [
+						"api",
+						"Medico",
+						"4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetMedicoBySpeciality",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:9187/api/Medico/GetByspeciality/cardiologia",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9187",
+					"path": [
+						"api",
+						"Medico",
+						"GetByspeciality",
+						"cardiologia"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

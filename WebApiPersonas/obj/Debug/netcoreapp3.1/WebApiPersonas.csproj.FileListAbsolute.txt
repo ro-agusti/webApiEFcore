@@ -1,0 +1,128 @@
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.deps.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.runtimeconfig.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.runtimeconfig.dev.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.AssemblyInfoInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.AssemblyInfo.cs
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPersonas.StaticWebAssets.Manifest.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPersonas.StaticWebAssets.xml
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiPersonas.styles.css
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.RazorTargetAssemblyInfo.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.csproj.CopyComplete
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\21-webAPI\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.genruntimeconfig.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.deps.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.runtimeconfig.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.runtimeconfig.dev.json
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\WebApiPersonas.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.AssemblyInfoInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.AssemblyInfo.cs
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPersonas.StaticWebAssets.Manifest.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\staticwebassets\WebApiPersonas.StaticWebAssets.xml
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiPersonas.styles.css
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.RazorTargetAssemblyInfo.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.csproj.CopyComplete
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\Nueva carpeta\slnWebApiPersonas\WebApiPersonas\obj\Debug\netcoreapp3.1\WebApiPersonas.genruntimeconfig.cache
